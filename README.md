@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate software engineer with projects related to machine learning and cloud deployment. I enjoy solving problems</h3>
 
-- 🔭 I’m currently working on [the backend using django](www.github.com/speedy_yx)
+- 🔭 I’m currently working on [backend projects with django and django rest framework and a bit of frontend with react](www.github.com/speedy_yx)
 
 - 🌱 I’m currently learning **Linux, react**
 
-- 👯 I’m looking to collaborate on **web development and machine learning project**
+- 👯 I’m looking to collaborate on **web development with python and javascript**
 
 - 📝 I regularly write articles on [https://dev.to/speedygamer12](https://dev.to/speedygamer12)
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **giwayusuf12@gmail.com**
 
-- 📄 Know about my experiences [googledrive.com](googledrive.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
