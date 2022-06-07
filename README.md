@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [backend projects with django and django rest framework and a bit of frontend with react](www.github.com/speedy_yx)
 
-- 🌱 I’m currently learning **Linux, react**
+- 🌱 I’m currently learning **Linux, react, DevOps**, 
 
-- 👯 I’m looking to collaborate on **web development with python and javascript**
+- 👯 I’m looking to collaborate on **software enginerring or machine learning projects, open source or not**
 
 - 📝 I regularly write articles on [https://dev.to/speedygamer12](https://dev.to/speedygamer12)
 
-- 💬 Ask me about **django, machine learning, data science**
+- 💬 Ask me about **django, machine learning, data science, software engineering or devops**
 
 - 📫 How to reach me **giwayusuf12@gmail.com**
 
