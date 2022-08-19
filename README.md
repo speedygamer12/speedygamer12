@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Full-stack projects with focus on DevOps](www.github.com/speedy_yx)
 
-- 🌱 I’m currently learning **Linux system administration, NodeJs, Cloud-native**, 
+- 🌱 I’m currently learning **Linux system administration, NodeJs Cloud-native**, 
 
-- 👯 I’m looking to collaborate on **Cloud-native, DevOps, Full-stack**,
+- 👯 I’m looking to collaborate on **Cloud-native, DevOps, and Full-stack Projects**,
 
 - 📝 I regularly write articles on [https://dev.to/speedygamer12](https://dev.to/speedygamer12),
 
