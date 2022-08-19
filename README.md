@@ -9,6 +9,6 @@
 
 - 📝 I regularly write articles on [https://dev.to/speedygamer12](https://dev.to/speedygamer12),
 
-- 💬 Ask me about **Linux system administration, AWS, Azure, GitOps, NodeJs, Django, React, CICD**
+- 💬 Ask me about **Linux system administration, AWS, Azure, GitOps, NodeJs, Django, React, Docker**
 
 - 📫 How to reach me **giwayusuf12@gmail.com**
